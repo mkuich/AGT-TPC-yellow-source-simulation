@@ -1,0 +1,4 @@
+source_diameter[mm]:                     1.85
+Am241_activity[kBq]                       7.5
+Am243_activity[kBq]                       100
+Cm243_activity[kBq]                       4.6
